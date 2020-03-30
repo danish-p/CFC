@@ -1,0 +1,388 @@
+{
+    "Menu": [
+        {
+            "id": "101",
+            "item": "Veg Chees Burger",
+            "qty": "1",
+            "price": "89"
+        },
+        {
+            "id": "102",
+            "item": "Veg Jalapino Burger",
+            "qty": "1",
+            "price": "99"
+        },
+        {
+            "id": "103",
+            "item": "Veg Tower Burger",
+            "qty": "1",
+            "price": "119"
+        },
+        {
+            "id": "104",
+            "item": "Veg Student Burger",
+            "qty": "1",
+            "price": "59"
+        },
+        {
+            "id": "105",
+            "item": "Cheesy Veggie Wrap",
+            "qty": "1",
+            "price": "99"
+        },
+        {
+            "id": "106",
+            "item": "Jalapeno",
+            "qty": "1",
+            "price": "109"
+        },
+        {
+            "id": "107",
+            "item": "Veg Pop",
+            "qty": "10",
+            "price": "69"
+        },
+        {
+            "id": "108",
+            "item": "Veg Cheesy Shots",
+            "qty": "6",
+            "price": "79"
+        },
+        {
+            "id": "109",
+            "item": "Veg Strip",
+            "qty": "4",
+            "price": "69"
+        },
+        {
+            "id": "110",
+            "item": "MC Veg Smily",
+            "qty": "5",
+            "price": "49"
+        },
+        {
+            "id": "111",
+            "item": "Veg Spring Roll",
+            "qty": "4",
+            "price": "99"
+        },
+        {
+            "id": "112",
+            "item": "French Fries REG",
+            "qty": "1",
+            "price": "49"
+        },
+        {
+            "id": "113",
+            "item": "French Fries LARGE",
+            "qty": "1",
+            "price": "79"
+        },
+        {
+            "id": "114",
+            "item": "Chicken Cheesy Burger",
+            "qty": "1",
+            "price": "99"
+        },
+        {
+            "id": "115",
+            "item": "Chicken Jalapino Burger",
+            "qty": "1",
+            "price": "109"
+        },
+        {
+            "id": "116",
+            "item": "Chicken Tower Burger",
+            "qty": "1",
+            "price": "149"
+        },
+        {
+            "id": "117",
+            "item": "Chicken Student",
+            "qty": "1",
+            "price": "79"
+        },
+        {
+            "id": "118",
+            "item": "Chicken Cheesy Wrap",
+            "qty": "1",
+            "price": "99"
+        },
+        {
+            "id": "119",
+            "item": "Chicken Jalapino Wrap",
+            "qty": "1",
+            "price": "109"
+        },
+        {
+            "id": "120",
+            "item": "Chicken Kabab Wrap",
+            "qty": "1",
+            "price": "139"
+        },
+        {
+            "id": "121",
+            "item": "Chicken Pop REG",
+            "qty": "3",
+            "price": "60"
+        },
+        {
+            "id": "122",
+            "item": "Chicken Pop LARGE",
+            "qty": "6",
+            "price": "100"
+        },
+        {
+            "id": "123",
+            "item": "Chicken Strip",
+            "qty": "3",
+            "price": "89"
+        },
+        {
+            "id": "124",
+            "item": "Chicken Strip",
+            "qty": "6",
+            "price": "159"
+        },
+        {
+            "id": "125",
+            "item": "Chicken Spicy Wings",
+            "qty": "3",
+            "price": "89"
+        },
+        {
+            "id": "126",
+            "item": "Chicken Spicy Wings",
+            "qty": "6",
+            "price": "159"
+        },
+        {
+            "id": "127",
+            "item": "Chicken Nuggets",
+            "qty": "5",
+            "price": "99"
+        },
+        {
+            "id": "128",
+            "item": "Suprem Veg Pizza REG",
+            "qty": "1",
+            "price": "119"
+        },
+        {
+            "id": "129",
+            "item": "Special Veg Pizza",
+            "qty": "1",
+            "price": "179"
+        },
+        {
+            "id": "130",
+            "item": "Spicy Veg Pizza",
+            "qty": "1",
+            "price": "129"
+        },
+        {
+            "id": "131",
+            "item": "Sweet Corn Pizza",
+            "qty": "1",
+            "price": "119"
+        },
+        {
+            "id": "132",
+            "item": "Choclate Pizza",
+            "qty": "1",
+            "price": "129"
+        },
+        {
+            "id": "133",
+            "item": "Chicken Suprem Pizza",
+            "qty": "1",
+            "price": "149"
+        },
+        {
+            "id": "134",
+            "item": "Chicken Special Pizza",
+            "qty": "1",
+            "price": "169"
+        },
+        {
+            "id": "135",
+            "item": "Chicken Spicy Pizza",
+            "qty": "1",
+            "price": "169"
+        },
+        {
+            "id": "136",
+            "item": "Chicken Chizza Pizza REG",
+            "qty": "1",
+            "price": "139"
+        },
+        {
+            "id": "137",
+            "item": "Chicken Chizza Pizza LARGE",
+            "qty": "1",
+            "price": "219"
+        },
+        {
+            "id": "138",
+            "item": "Blue Menia",
+            "qty": "1",
+            "price": "49"
+        },
+        {
+            "id": "139",
+            "item": "Apple Green",
+            "qty": "1",
+            "price": "49"
+        },
+        {
+            "id": "140",
+            "item": "Rose Fresh",
+            "qty": "1",
+            "price": "49"
+        },
+        {
+            "id": "141",
+            "item": "Kiwi Krash",
+            "qty": "1",
+            "price": "49"
+        },
+        {
+            "id": "142",
+            "item": "Cool Mint",
+            "qty": "1",
+            "price": "49"
+        },
+        {
+            "id": "143",
+            "item": "Lemon Cordial",
+            "qty": "1",
+            "price": "49"
+        },
+        {
+            "id": "144",
+            "item": "Blue Milk Shake",
+            "qty": "1",
+            "price": "89"
+        },
+        {
+            "id": "145",
+            "item": "Apple Green Milk Shake",
+            "qty": "1",
+            "price": "89"
+        },
+        {
+            "id": "146",
+            "item": "Rose Fresh Milk Shake",
+            "qty": "1",
+            "price": "89"
+        },
+        {
+            "id": "147",
+            "item": "Kiwi Krash Milk Shake",
+            "qty": "1",
+            "price": "89"
+        },
+        {
+            "id": "148",
+            "item": "Cool Mint Milk Shake",
+            "qty": "1",
+            "price": "89"
+        },
+        {
+            "id": "149",
+            "item": "Choco Cold Coffee",
+            "qty": "1",
+            "price": "89"
+        },
+        {
+            "id": "150",
+            "item": "Vanila Cold Coffee",
+            "qty": "1",
+            "price": "89"
+        },
+        {
+            "id": "151",
+            "item": "Veg Combo",
+            "qty": "1",
+            "price": "140"
+        },
+        {
+            "id": "152",
+            "item": "Chicken Combo",
+            "qty": "1",
+            "price": "160"
+        },
+        {
+            "id": "153",
+            "item": "Crispy Fried Chicken Bucket",
+            "qty": "2",
+            "price": "139"
+        },
+        {
+            "id": "154",
+            "item": "Crispy Fried Chicken Bucket",
+            "qty": "4",
+            "price": "269"
+        },
+        {
+            "id": "155",
+            "item": "Crispy Fried Chicken Bucket",
+            "qty": "6",
+            "price": "399"
+        },
+        {
+            "id": "156",
+            "item": "Crispy Fried Chicken Bucket",
+            "qty": "8",
+            "price": "529"
+        },
+        {
+            "id": "157",
+            "item": "Crispy Fried Chicken Bucket",
+            "qty": "10",
+            "price": "649"
+        },
+        {
+            "id": "158",
+            "item": "Grilled Chicken",
+            "qty": "2",
+            "price": "139"
+        },
+        {
+            "id": "159",
+            "item": "Grilled Chicken",
+            "qty": "4",
+            "price": "269"
+        },
+        {
+            "id": "160",
+            "item": "Grilled Chicken",
+            "qty": "6",
+            "price": "399"
+        },
+        {
+            "id": "161",
+            "item": "Grilled Chicken",
+            "qty": "8",
+            "price": "529"
+        },
+        {
+            "id": "162",
+            "item": "Grilled Chicken",
+            "qty": "10",
+            "price": "649"
+        },
+        {
+            "id": "163",
+            "item": "Fish Finger",
+            "qty": "4",
+            "price": "130"
+        },
+        {
+            "id": "164",
+            "item": "Fish Finger",
+            "qty": "6",
+            "price": "200"
+        }
+    ]
+}
