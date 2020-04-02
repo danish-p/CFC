@@ -39,31 +39,31 @@
         {
             "id": "107",
             "item": "Veg Pop",
-            "qty": "10",
+            "qty": "1",
             "price": "69"
         },
         {
             "id": "108",
             "item": "Veg Cheesy Shots",
-            "qty": "6",
+            "qty": "1",
             "price": "79"
         },
         {
             "id": "109",
             "item": "Veg Strip",
-            "qty": "4",
+            "qty": "1",
             "price": "69"
         },
         {
             "id": "110",
             "item": "MC Veg Smily",
-            "qty": "5",
+            "qty": "1",
             "price": "49"
         },
         {
             "id": "111",
             "item": "Veg Spring Roll",
-            "qty": "4",
+            "qty": "1",
             "price": "99"
         },
         {
@@ -123,43 +123,43 @@
         {
             "id": "121",
             "item": "Chicken Pop REG",
-            "qty": "3",
+            "qty": "1",
             "price": "60"
         },
         {
             "id": "122",
             "item": "Chicken Pop LARGE",
-            "qty": "6",
+            "qty": "1",
             "price": "100"
         },
         {
             "id": "123",
             "item": "Chicken Strip",
-            "qty": "3",
+            "qty": "1",
             "price": "89"
         },
         {
             "id": "124",
             "item": "Chicken Strip",
-            "qty": "6",
+            "qty": "1",
             "price": "159"
         },
         {
             "id": "125",
             "item": "Chicken Spicy Wings",
-            "qty": "3",
+            "qty": "1",
             "price": "89"
         },
         {
             "id": "126",
             "item": "Chicken Spicy Wings",
-            "qty": "6",
+            "qty": "1",
             "price": "159"
         },
         {
             "id": "127",
             "item": "Chicken Nuggets",
-            "qty": "5",
+            "qty": "1",
             "price": "99"
         },
         {
@@ -315,73 +315,73 @@
         {
             "id": "153",
             "item": "Crispy Fried Chicken Bucket",
-            "qty": "2",
+            "qty": "1",
             "price": "139"
         },
         {
             "id": "154",
             "item": "Crispy Fried Chicken Bucket",
-            "qty": "4",
+            "qty": "1",
             "price": "269"
         },
         {
             "id": "155",
             "item": "Crispy Fried Chicken Bucket",
-            "qty": "6",
+            "qty": "1",
             "price": "399"
         },
         {
             "id": "156",
             "item": "Crispy Fried Chicken Bucket",
-            "qty": "8",
+            "qty": "1",
             "price": "529"
         },
         {
             "id": "157",
             "item": "Crispy Fried Chicken Bucket",
-            "qty": "10",
+            "qty": "1",
             "price": "649"
         },
         {
             "id": "158",
             "item": "Grilled Chicken",
-            "qty": "2",
+            "qty": "1",
             "price": "139"
         },
         {
             "id": "159",
             "item": "Grilled Chicken",
-            "qty": "4",
+            "qty": "1",
             "price": "269"
         },
         {
             "id": "160",
             "item": "Grilled Chicken",
-            "qty": "6",
+            "qty": "1",
             "price": "399"
         },
         {
             "id": "161",
             "item": "Grilled Chicken",
-            "qty": "8",
+            "qty": "1",
             "price": "529"
         },
         {
             "id": "162",
             "item": "Grilled Chicken",
-            "qty": "10",
+            "qty": "1",
             "price": "649"
         },
         {
             "id": "163",
             "item": "Fish Finger",
-            "qty": "4",
+            "qty": "1",
             "price": "130"
         },
         {
             "id": "164",
             "item": "Fish Finger",
-            "qty": "6",
+            "qty": "1",
             "price": "200"
         }
     ]
